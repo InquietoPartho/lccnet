@@ -313,12 +313,12 @@ flowchart LR
              for Explainable Multi-Organ Cancer Classification in Histopathology},
   author  = {Partho, Pijush Kanti Roy and Emran, Tushar and Karmoker, Suchi and Sarker, Dipraj and
              Bhowmik, Pankaj and Hossain, Md. Delowar and Amin, Md Al and Sultana, Tangina},
-  year    = {<year>},
+  year    = {2026},
   journal = {<journal>}
 }
 ```
 
-📬 **Correspondence:** Tangina Sultana, Department of Electronics and Communication Engineering, Hajee Mohammad Danesh Science and Technology University, Dinajpur, Bangladesh.
+📬 **Correspondence:** Tangina Sultana, Department of Electronics and Communication Engineering, and Pankaj Bhowmik, Department of Computer Science and Engineering, Hajee Mohammad Danesh Science and Technology University, Dinajpur, Bangladesh.
 
 ---
 
